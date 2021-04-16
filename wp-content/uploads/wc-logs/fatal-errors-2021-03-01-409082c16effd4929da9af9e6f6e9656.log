@@ -1,0 +1,178 @@
+2021-03-01T15:02:52+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Notes\Note::set_status() in /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce-admin/src/Notes/DataStore.php:107
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Automattic\WooCommerce\Admin\Notes\DataStore->read(Object(Automattic\WooCommerce\Admin\Notes\Note))
+#1 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce-admin/src/Notes/Note.php(89): WC_Data_Store->read(Object(Automattic\WooCommerce\Admin\Notes\Note))
+#2 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/includes/admin/notes/class-wc-notes-run-db-update.php(269): Automattic\WooCommerce\Admin\Notes\Note->__construct('9')
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): WC_Notes_Run_Db_Update::show_reminder(Object(WP_Screen))
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_ en /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce-admin/src/Notes/DataStore.php en la línea 107
+
+2021-03-01T15:02:55+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Notes\Note::set_status() in /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce-admin/src/Notes/DataStore.php:107
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Automattic\WooCommerce\Admin\Notes\DataStore->read(Object(Automattic\WooCommerce\Admin\Notes\Note))
+#1 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce-admin/src/Notes/Note.php(89): WC_Data_Store->read(Object(Automattic\WooCommerce\Admin\Notes\Note))
+#2 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/includes/admin/notes/class-wc-notes-run-db-update.php(269): Automattic\WooCommerce\Admin\Notes\Note->__construct('9')
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): WC_Notes_Run_Db_Update::show_reminder(Object(WP_Screen))
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_ en /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce-admin/src/Notes/DataStore.php en la línea 107
+
+2021-03-01T15:03:38+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2026
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2026
+
+2021-03-01T15:03:45+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2026
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2026
+
+2021-03-01T15:03:50+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2026
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2026
+
+2021-03-01T15:04:02+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2026
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2026
+
+2021-03-01T15:04:08+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2026
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2026
+
+2021-03-01T15:06:27+00:00 CRITICAL Uncaught Error: Class 'DgoraWcas\Setup' not found in /home/customer/www/modegt.com/public_html/wp-content/plugins/ajax-search-for-woocommerce/ajax-search-for-woocommerce.php:66
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-content/plugins/ajax-search-for-woocommerce/ajax-search-for-woocommerce.php(362): DGWT_WC_Ajax_Search::getInstance()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): DGWT_WCAS('')
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#4 /home/customer/www/modegt.com/public_html/wp-settings.php(420): do_action('plugins_loaded')
+#5 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home/customer/...')
+#6 /home/customer/www/modegt.com/public_html/wp-load.php(37): require_once('/home/customer/...')
+#7 /home/customer/www/modegt.com/public_html/wp-blog-header.php(13 en /home/customer/www/modegt.com/public_html/wp-content/plugins/ajax-search-for-woocommerce/ajax-search-for-woocommerce.php en la línea 66
+
+2021-03-01T15:06:30+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2057
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2057
+
+2021-03-01T15:06:41+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Notes\Note::set_status() in /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce-admin/src/Notes/DataStore.php:107
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): Automattic\WooCommerce\Admin\Notes\DataStore->read(Object(Automattic\WooCommerce\Admin\Notes\Note))
+#1 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce-admin/src/Notes/Note.php(89): WC_Data_Store->read(Object(Automattic\WooCommerce\Admin\Notes\Note))
+#2 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/includes/admin/notes/class-wc-notes-run-db-update.php(269): Automattic\WooCommerce\Admin\Notes\Note->__construct('9')
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): WC_Notes_Run_Db_Update::show_reminder(Object(WP_Screen))
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_ en /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce-admin/src/Notes/DataStore.php en la línea 107
+
+2021-03-01T15:06:47+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2026
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2026
+
+2021-03-01T15:07:22+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2057
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2057
+
+2021-03-01T15:08:02+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2057
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2057
+
+2021-03-01T15:08:10+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2057
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2057
+
+2021-03-01T15:08:25+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2057
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2057
+
+2021-03-01T15:08:44+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2057
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2057
+
+2021-03-01T15:08:53+00:00 CRITICAL Uncaught Error: Call to undefined function sanitize_title_for_query() in /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php:2057
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php(3448): WP_Query->get_posts()
+#1 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(624): WP_Query->query(Array)
+#2 /home/customer/www/modegt.com/public_html/wp-includes/class-wp.php(747): WP->query_posts()
+#3 /home/customer/www/modegt.com/public_html/wp-includes/functions.php(1291): WP->main('')
+#4 /home/customer/www/modegt.com/public_html/wp-blog-header.php(16): wp()
+#5 /home/customer/www/modegt.com/public_html/index.php(17): require('/home/customer/...')
+#6 {main}
+  thrown en /home/customer/www/modegt.com/public_html/wp-includes/class-wp-query.php en la línea 2057
+

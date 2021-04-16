@@ -1,0 +1,297 @@
+2021-03-05T21:03:00+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:03:17+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:04:55+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:05:11+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:05:32+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:07:01+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:07:03+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:07:05+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:07:37+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:07:48+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:08:29+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:08:47+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:09:20+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:09:45+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:11:57+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:11:57+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:11:57+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:12:19+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:12:19+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:12:41+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:13:18+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:13:19+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:14:30+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:15:01+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:15:13+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:17:46+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Rewrite::add_rewrite_tag() in /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-taxonomy.php(445): add_rewrite_tag('%category%', '(.+?)', 'category_name=')
+#1 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(437): WP_Taxonomy->add_rewrite_rules()
+#2 /home/customer/www/modegt.com/public_html/wp-includes/taxonomy.php(79): register_taxonomy('category', 'post', Array)
+#3 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(287): create_initial_taxonomies('')
+#4 /home/customer/www/modegt.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/customer/www/modegt.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/customer/www/modegt.com/public_html/wp-settings.php(557): do_action('init')
+#7 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home en /home/customer/www/modegt.com/public_html/wp-includes/rewrite.php en la línea 173
+
+2021-03-05T21:35:27+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_container() in /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/includes/class-woocommerce.php:208
+Stack trace:
+#0 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/includes/class-woocommerce.php(169): WooCommerce->init_hooks()
+#1 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/includes/class-woocommerce.php(127): WooCommerce->__construct()
+#2 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/woocommerce.php(47): WooCommerce::instance()
+#3 /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/woocommerce.php(62): WC()
+#4 /home/customer/www/modegt.com/public_html/wp-settings.php(388): include_once('/home/customer/...')
+#5 /home/customer/www/modegt.com/public_html/wp-config.php(78): require_once('/home/customer/...')
+#6 /home/customer/www/modegt.com/public_html/wp-load.php(37): require_once('/home/customer/...')
+#7 /home/customer/www/modegt.com/publi en /home/customer/www/modegt.com/public_html/wp-content/plugins/woocommerce/includes/class-woocommerce.php en la línea 208
+

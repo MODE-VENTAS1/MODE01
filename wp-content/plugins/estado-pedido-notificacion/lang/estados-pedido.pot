@@ -1,0 +1,598 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Estados de pedido con notificación\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-02 15:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.1; wp-5.7-RC1-50464\n"
+"X-Domain: estados-pedido"
+
+#: src/campos.php:321
+#, php-format
+msgid ""
+"%%</code>datos_facturacion%%</code> para los datos de facturación<br><code>"
+"%%datos_envio%%</code> para la dirección de envío<br><code>"
+"%%metodo_pago%%</code> para el método de pago utilizado<br><code>"
+"%%metodo_envio%%</code> para el método de envío seleccionado"
+msgstr ""
+
+#: src/cpt.php:141
+#, php-format
+msgid "%s estado de pedido actualizado."
+msgid_plural "%s estados de pedido actualizados."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/cpt.php:142
+#, php-format
+msgid "%s estado de pedido no se ha actualizado, alguien lo está editando."
+msgid_plural ""
+"%s estados de pedido no se han actualizado, alguien los está editando."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/cpt.php:143
+#, php-format
+msgid "%s estado de pedido se ha eliminado."
+msgid_plural "%s estados de pedido se han eliminado."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/cpt.php:144
+#, php-format
+msgid "%s estado de pedido se ha enviado a la papelera."
+msgid_plural "%s estados de pedido se han enviado a la papelera."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/cpt.php:145
+#, php-format
+msgid "%s estado de pedido se ha recuperado de la papelera."
+msgid_plural "%s estados de pedido se han recuperado de la papelera."
+msgstr[0] ""
+msgstr[1] ""
+
+#: estado-pedido-notificacion.php:118
+#, php-format
+msgid ""
+"%s ya incluye Advanced Custom Fields PRO, por lo que no necesitas tener "
+"activada la versión gratuita de ACF. Mientras uses %s podrás utilizar las "
+"características PRO de ACF."
+msgstr ""
+
+#: estado-pedido-notificacion.php:235
+#, php-format
+msgid ""
+"%sActiva%s tu licencia de %s para poder recibir soporte y actualizaciones. "
+"Si no tienes una clave de licencia válida, consíguela %saquí%s."
+msgstr ""
+
+#: src/campos.php:321
+#, php-format
+msgid ""
+"<code>%%cliente%%</code> para el nombre del cliente<br><code>"
+"%%pedido%%</code> para el número de pedido<br><code>%%email%%</code> para la "
+"dirección de email del cliente<br><code>%%tabla%%</code> para la tabla "
+"resumen del pedido<br><code>%%total%%</code> para el total del pedido"
+msgstr ""
+
+#: src/campos.php:321
+#, php-format
+msgid ""
+"<code>%%cliente%%</code> para el nombre del cliente<br><code>"
+"%%pedido%%</code> para el número de pedido<br><code>%%email%%</code> para la "
+"dirección de email del cliente<br><code>%%tabla%%</code> para la tabla "
+"resumen del pedido<br><code>%%total%%</code> para el total del pedido<br>"
+"<code>%%datos_facturacion%%</code> para los datos de facturación<br><code>"
+"%%datos_envio%%</code> para la dirección de envío<br><code>"
+"%%metodo_pago%%</code> para el método de pago utilizado"
+msgstr ""
+
+#: src/campos.php:321
+#, php-format
+msgid ""
+"<code>%%metodo_envio%%</code> para el método de envío seleccionado<br><code>"
+"%%agencia%%</code> para el nombre de la agencia de transportes<br><code>"
+"%%codigo%%</code> para el código de seguimiento<br><code>"
+"%%fecha_envio%%</code> para la fecha de envío<br><code>%%url_envio%%</code> "
+"para la URL con la información de seguimiento<br><code>%%boton_envio%%</code>"
+" para crear un botón que lleve a la información de seguimiento"
+msgstr ""
+
+#: src/cpt.php:503
+msgid "Acción (hook)"
+msgstr ""
+
+#: estado-pedido-notificacion.php:193 estado-pedido-notificacion.php:206
+#, php-format
+msgid ""
+"Activa tu licencia para poder recibir soporte y actualizaciones. Si no "
+"tienes una clave de licencia válida, consíguela %saquí%s."
+msgstr ""
+
+#: estado-pedido-notificacion.php:194 estado-pedido-notificacion.php:207
+#: estado-pedido-notificacion.php:219
+msgid "Activar licencia"
+msgstr ""
+
+#: src/campos.php:190
+msgid "Activar notificaciones para:"
+msgstr ""
+
+#: src/cpt.php:61
+msgid "Actualizar estado de pedido"
+msgstr ""
+
+#: src/campos.php:354
+msgid "Adjuntar archivos"
+msgstr ""
+
+#: src/campos.php:388
+msgid "Adjunto"
+msgstr ""
+
+#: src/campos.php:202
+msgid "Administrador"
+msgstr ""
+
+#: src/cpt.php:507
+#, php-format
+msgid "Aquí tu código a ejecutar cuando un pedido pase a estado %s"
+msgstr ""
+
+#: src/cpt.php:54
+msgid "Archivos de estados de pedido"
+msgstr ""
+
+#: src/campos.php:87
+msgid "Aspecto"
+msgstr ""
+
+#: src/campos.php:246
+msgid "Asunto"
+msgstr ""
+
+#: src/campos.php:249
+msgid "Asunto del correo electrónico. Admite variables."
+msgstr ""
+
+#: src/cpt.php:55
+msgid "Atributos de estado de pedido"
+msgstr ""
+
+#: src/campos.php:495
+msgid "Automatizaciones"
+msgstr ""
+
+#: src/auto.php:54 src/auto.php:60
+msgid "Automatización del estado de pedido personalizado:"
+msgstr ""
+
+#: src/cpt.php:58
+msgid "Añadir estado"
+msgstr ""
+
+#: src/cpt.php:57
+msgid "Añadir estado de pedido"
+msgstr ""
+
+#: src/cpt.php:64
+msgid "Buscar estado de pedido"
+msgstr ""
+
+#: src/estados.php:252
+#, php-format
+msgid "Cambiar estado a %s"
+msgstr ""
+
+#: src/campos.php:419
+msgid "Características"
+msgstr ""
+
+#: estado-pedido-notificacion.php:269
+msgid "Changelog"
+msgstr ""
+
+#: src/campos.php:203
+msgid "Cliente"
+msgstr ""
+
+#: src/campos.php:105
+msgid "Color del estado de pedido"
+msgstr ""
+
+#: src/campos.php:125
+msgid "Color del texto de la etiqueta"
+msgstr ""
+
+#: src/campos.php:56
+msgid "Configuración del estado de pedido"
+msgstr ""
+
+#: src/desactivacion.php:43
+msgid "Desactivando plugin..."
+msgstr ""
+
+#: src/desactivacion.php:40
+msgid ""
+"Desactivar el plugin hará que los pedidos que estén en un estado creado con "
+"él no puedan verse. Comprueba primero que no queda ningún pedido en un "
+"estado personalizado y si es así cámbialo de estado."
+msgstr ""
+
+#: src/campos.php:216
+msgid "Dirección de administración"
+msgstr ""
+
+#: src/campos.php:219
+msgid ""
+"Dirección de correo electrónico a la que se enviará la notificación al "
+"administrador. Admite varias direcciones separadas por punto y coma (;)."
+msgstr ""
+
+#: src/cpt.php:60
+msgid "Editar estado de pedido"
+msgstr ""
+
+#: src/cpt.php:505
+msgid "Ejemplo de uso del hook"
+msgstr ""
+
+#: estado-pedido-notificacion.php:132
+#, php-format
+msgid ""
+"El plugin %s necesita que WooCommerce esté activado. Por favor, activa "
+"WooCommerce primero."
+msgstr ""
+
+#: src/campos.php:39
+#, php-format
+msgid ""
+"El plugin %s no ha podido recuperar la lista de campos personalizados. Por "
+"favor, contacta con el %ssoporte%s."
+msgstr ""
+
+#: src/dashboard.php:55
+msgid "en estado"
+msgstr ""
+
+#: src/campos.php:282
+msgid "Encabezado"
+msgstr ""
+
+#. Author of the plugin
+msgid "Enrique J. Ros"
+msgstr ""
+
+#: src/estados.php:183
+#, php-format
+msgid "Enviar el aviso de %s"
+msgid_plural "Enviar los avisos de %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/cpt.php:155
+msgid "Estado"
+msgstr ""
+
+#: src/cpt.php:51 src/cpt.php:53 src/cpt.php:73 src/cpt.php:175
+msgid "Estado de pedido"
+msgstr ""
+
+#: src/cpt.php:129 src/cpt.php:130
+msgid "Estado de pedido actualizado."
+msgstr ""
+
+#: src/cpt.php:131
+msgid "Estado de pedido creado."
+msgstr ""
+
+#: src/cpt.php:132
+msgid "Estado de pedido guardado."
+msgstr ""
+
+#: src/estados.php:183
+msgid "estado personalizado #"
+msgstr ""
+
+#: src/estados.php:27 src/estados.php:132
+#, php-format
+msgid "Estado personalizado #%s"
+msgstr ""
+
+#: src/cpt.php:52 src/cpt.php:56
+msgid "Estados de pedido"
+msgstr ""
+
+#. Name of the plugin
+#: estado-pedido-notificacion.php:41 src/campos.php:39
+msgid "Estados de pedido con notificación"
+msgstr ""
+
+#: src/cpt.php:367
+msgid "Estados de pedido importados, espera la recarga de la página..."
+msgstr ""
+
+#: src/cpt.php:50
+msgid "Estados de pedido personalizados"
+msgstr ""
+
+#: src/cpt.php:363
+msgid ""
+"Esto hará que se importen los estados de pedido personalizados creados por "
+"otros plugins."
+msgstr ""
+
+#: src/cpt.php:69
+msgid "Filtrar lista de estados de pedido"
+msgstr ""
+
+#: src/cpt.php:74
+msgid "Gestiona estados de pedido"
+msgstr ""
+
+#: estado-pedido-notificacion.php:257
+msgid "Gestionar estados"
+msgstr ""
+
+#: estado-pedido-notificacion.php:152 estado-pedido-notificacion.php:162
+msgid "Gestionar estados de pedido"
+msgstr ""
+
+#: estado-pedido-notificacion.php:161
+#, php-format
+msgid ""
+"Gracias por usar %s. Puedes comenzar creando algún estado de pedido "
+"personalizado."
+msgstr ""
+
+#: estado-pedido-notificacion.php:151
+#, php-format
+msgid ""
+"Gracias por usar %s. Puedes comenzar creando algún estado de pedido "
+"personalizado. No olvides activar tu licencia para tener acceso a soporte y "
+"actualizaciones."
+msgstr ""
+
+#: src/campos.php:472
+msgid "Hacer que los pedidos en este estado se puedan editar."
+msgstr ""
+
+#: src/updates.php:214
+#, php-format
+msgid ""
+"Hay disponible una nueva versión de %1$s. %2$sVer los detalles de la versión "
+"%3$s%4$s."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.enriquejros.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://www.enriquejros.com/plugins/estados-pedido-notificacion-woocommerce/"
+msgstr ""
+
+#: src/campos.php:142 src/cpt.php:156
+msgid "Icono"
+msgstr ""
+
+#: src/cpt.php:500
+msgid "Identificador de estado"
+msgstr ""
+
+#: src/cpt.php:366
+msgid "Importando nuevos estados, espera..."
+msgstr ""
+
+#: src/cpt.php:361
+msgid "Importar estados de pedido"
+msgstr ""
+
+#: src/campos.php:473
+msgid "Incluir este estado de pedido en los informes de WooCommerce."
+msgstr ""
+
+#: src/notificacion.php:402
+msgid "INFORMACIÓN DE SEGUIMIENTO DEL ENVÍO"
+msgstr ""
+
+#: src/notificacion.php:413
+msgid "Información de seguimiento del envío"
+msgstr ""
+
+#: src/cpt.php:487
+msgid "Información sobre el estado de pedido"
+msgstr ""
+
+#: src/campos.php:607
+msgid "Invitado"
+msgstr ""
+
+#: src/cpt.php:249
+msgid "La clave de licencia ha expirado."
+msgstr ""
+
+#: src/cpt.php:245
+msgid "La clave de licencia no es válida."
+msgstr ""
+
+#: estado-pedido-notificacion.php:218
+#, php-format
+msgid ""
+"La licencia ha expirado y ya no es posible renovarla. Consigue una nueva "
+"licencia %saquí%s."
+msgstr ""
+
+#: src/cpt.php:67
+msgid "Lista de estados de pedido"
+msgstr ""
+
+#: src/estados.php:132
+#, php-format
+msgid "Marcar como %s"
+msgstr ""
+
+#: src/campos.php:474
+msgid ""
+"Mostrar un resumen de este estado de pedido en el widget de escritorio de "
+"WooCommerce."
+msgstr ""
+
+#: src/campos.php:513
+msgid "Método de pago"
+msgstr ""
+
+#: src/cpt.php:68
+msgid "Navegación por lista de estados de pedido"
+msgstr ""
+
+#: src/cpt.php:65
+msgid "No hay estados de pedido"
+msgstr ""
+
+#: src/cpt.php:66
+msgid "No hay estados de pedido en la papelera"
+msgstr ""
+
+#: src/campos.php:172
+msgid "Notificaciones"
+msgstr ""
+
+#: src/notificacion.php:32
+#, php-format
+msgid "Notificación del estado de pedido %s"
+msgstr ""
+
+#: src/cpt.php:59
+msgid "Nuevo estado de pedido"
+msgstr ""
+
+#: src/cpt.php:497
+#, php-format
+msgid "Nº pedidos en estado %s%s%s"
+msgstr ""
+
+#: src/dashboard.php:54
+msgid "pedido"
+msgid_plural "pedidos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Description of the plugin
+msgid ""
+"Permite añadir nuevos estados de pedido personalizados y asignarles una "
+"notificación tanto para el cliente como para el administrador"
+msgstr ""
+
+#: src/campos.php:568 src/dashboard.php:39
+msgid "Personalizado #"
+msgstr ""
+
+#: src/cpt.php:167 src/estados.php:86 src/estados.php:252 src/estados.php:301
+#, php-format
+msgid "Personalizado #%s"
+msgstr ""
+
+#: src/campos.php:318
+msgid "Plantilla"
+msgstr ""
+
+#: src/desactivacion.php:44
+msgid "Plugin desactivado, espera la recarga de la página..."
+msgstr ""
+
+#: src/campos.php:540
+msgid ""
+"Poner automáticamente en este estado los pedidos de usuarios pertenecientes "
+"a los roles seleccionados."
+msgstr ""
+
+#: src/campos.php:516
+msgid ""
+"Poner automáticamente en este estado los pedidos pagados mediante los "
+"métodos seleccionados."
+msgstr ""
+
+#: src/campos.php:321
+msgid ""
+"Puedes utilizar las siguientes variables tanto en el cuerpo del mensaje como "
+"en el asunto y el encabezado:"
+msgstr ""
+
+#: src/campos.php:537
+msgid "Rol de usuario"
+msgstr ""
+
+#: src/estados.php:301
+#, php-format
+msgid "Se ha marcado %s pedido como %s."
+msgid_plural "Se han marcado %s pedidos como %s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/campos.php:285
+msgid ""
+"Si no se establece ninguno se usará el asunto del correo electrónico. Admite "
+"variables."
+msgstr ""
+
+#: src/campos.php:437
+msgid "Siguiente estado en el flujo de pedidos"
+msgstr ""
+
+#: estado-pedido-notificacion.php:258
+msgid "Soporte"
+msgstr ""
+
+#: src/notificacion.php:414
+#, php-format
+msgid ""
+"Su pedido ha sido enviado a través de %s, con el código de seguimiento %s. "
+"Puede conocer el estado del envío a través del siguiente enlace:"
+msgstr ""
+
+#: src/notificacion.php:408
+#, php-format
+msgid ""
+"Su pedido ha sido enviado a través de %s, con el código de seguimiento %s. "
+"Puede conocer el estado del envío a través del siguiente enlace: %s"
+msgstr ""
+
+#: estado-pedido-notificacion.php:183 src/cpt.php:241
+#, php-format
+msgid "Tu licencia está activada y es válida hasta el %s."
+msgstr ""
+
+#: src/notificacion.php:377 src/notificacion.php:415
+msgid "Ver el estado del envío"
+msgstr ""
+
+#: src/cpt.php:62
+msgid "Ver estado de pedido"
+msgstr ""
+
+#: src/cpt.php:63
+msgid "Ver estados de pedido"
+msgstr ""
+
+#: src/estados.php:183
+#, php-format
+msgid "Volver a enviar el aviso de %s"
+msgid_plural "Volver a enviar los avisos de %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/cpt.php:362 src/desactivacion.php:39
+msgid "¿Estás seguro?"
+msgstr ""

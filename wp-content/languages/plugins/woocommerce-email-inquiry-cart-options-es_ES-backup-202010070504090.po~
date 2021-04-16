@@ -1,0 +1,1419 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP e-Commerce Catalog Visibility Email inquiry PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-24 12:27+0700\n"
+"PO-Revision-Date: 2020-10-07 01:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: admin/admin-interface.php:178
+msgid "Great! You have the latest version installed."
+msgstr "¡Excelente! Tienes instalada la última versión."
+
+#: admin/admin-interface.php:243
+msgid "Settings successfully saved."
+msgstr "Configuración guardada correctamente."
+
+#: admin/admin-interface.php:251
+msgid "Error: Settings can not save."
+msgstr "Error: la configuración no se puede guardar."
+
+#: admin/admin-interface.php:259
+msgid "Settings successfully reseted."
+msgstr "La configuración se restableció correctamente."
+
+#: admin/admin-interface.php:280
+msgid "Thin"
+msgstr "Delgada"
+
+#: admin/admin-interface.php:281
+msgid "Thin/Italic"
+msgstr "Delgada / cursiva"
+
+#: admin/admin-interface.php:282
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/admin-interface.php:283
+msgid "Italic"
+msgstr "Itálica"
+
+#: admin/admin-interface.php:284
+msgid "Bold"
+msgstr "Negrita"
+
+#: admin/admin-interface.php:285
+msgid "Bold/Italic"
+msgstr "Negrita/cursiva"
+
+#: admin/admin-interface.php:295
+msgid "Solid"
+msgstr "Sólida"
+
+#: admin/admin-interface.php:296
+msgid "Double"
+msgstr "Doble"
+
+#: admin/admin-interface.php:297
+msgid "Dashed"
+msgstr "Punteado"
+
+#: admin/admin-interface.php:298
+msgid "Dotted"
+msgstr "Punteada"
+
+#: admin/admin-interface.php:299
+msgid "Groove"
+msgstr "Ranura"
+
+#: admin/admin-interface.php:300
+msgid "Ridge"
+msgstr ""
+
+#: admin/admin-interface.php:301
+msgid "Inset"
+msgstr "Recuadro"
+
+#: admin/admin-interface.php:302
+msgid "Outset"
+msgstr "Comienzo"
+
+#: admin/admin-interface.php:1572 admin/admin-interface.php:1658
+#: admin/admin-interface.php:1758 admin/admin-interface.php:1927
+#: admin/admin-interface.php:2017 admin/admin-interface.php:2046
+#: admin/settings/email-inquiry-global-settings.php:236
+#: admin/settings/email-inquiry-global-settings.php:249
+#: admin/settings/email-inquiry-global-settings.php:289
+#: admin/settings/email-inquiry/contact-form-global-settings.php:78
+#: admin/settings/rules-roles-settings.php:253
+#: admin/settings/rules-roles-settings.php:377
+#: admin/settings/rules-roles-settings.php:389
+msgid "ON"
+msgstr "ENCENDIDO"
+
+#: admin/admin-interface.php:1573 admin/admin-interface.php:1659
+#: admin/admin-interface.php:1759 admin/admin-interface.php:1928
+#: admin/admin-interface.php:2018 admin/admin-interface.php:2047
+#: admin/settings/email-inquiry-global-settings.php:237
+#: admin/settings/email-inquiry-global-settings.php:250
+#: admin/settings/email-inquiry-global-settings.php:290
+#: admin/settings/email-inquiry/contact-form-global-settings.php:79
+#: admin/settings/rules-roles-settings.php:254
+#: admin/settings/rules-roles-settings.php:378
+#: admin/settings/rules-roles-settings.php:390
+msgid "OFF"
+msgstr "APAGADO"
+
+#: admin/admin-interface.php:1578
+msgid "Google Fonts API"
+msgstr "Google Fonts API"
+
+#: admin/admin-interface.php:1590
+msgid ""
+"ON to connect to Google Fonts API and have auto font updates direct from "
+"Google."
+msgstr ""
+"ON para conectarse a la API de Google Fonts y tener actualizaciones "
+"automáticas de fuentes directamente desde Google."
+
+#: admin/admin-interface.php:1594
+#, php-format
+msgid ""
+"Enter your existing Google Fonts API Key below. Don't have a key? Visit <a "
+"href='%s' target='_blank'>Google Developer API</a> to create a key"
+msgstr ""
+"Ingrese su clave API de Google Fonts existente a continuación. ¿No tienes "
+"llave? Visite <a href='%s' target='_blank'>Google Developer API</a> para "
+"crear una clave."
+
+#: admin/admin-interface.php:1611
+msgid "Google Fonts API Key"
+msgstr "Google Fonts API Key"
+
+#: admin/admin-interface.php:1614
+msgid "Your Google API Key is valid and automatic font updates are enabled."
+msgstr ""
+"Tu Google API Key es válido y las actualizaciones automáticas de fuentes "
+"están habilitadas."
+
+#: admin/admin-interface.php:1615
+msgid "Please enter a valid Google API Key."
+msgstr "Por favor ingrese una Google API Key válida."
+
+#: admin/admin-interface.php:1634
+msgid "Check New Version"
+msgstr "Comprobar nueva versión"
+
+#: admin/admin-interface.php:1645
+msgid "Check Now"
+msgstr "Revisalo ahora"
+
+#: admin/admin-interface.php:1664
+msgid "Open Box Display"
+msgstr "Exhibición de caja abierta"
+
+#: admin/admin-interface.php:1677
+msgid ""
+"ON and each admin panel setting box OPEN | CLOSED position are saved each "
+"time changes are SAVED."
+msgstr ""
+"ON y cada cuadro de configuración del panel de administración ABIERTO | La "
+"posición CERRADA se guarda cada vez que se GUARDAN los cambios."
+
+#: admin/admin-interface.php:2082
+msgid "Width"
+msgstr "Anchura"
+
+#: admin/admin-interface.php:2084
+msgid "Height"
+msgstr "Altura"
+
+#: admin/admin-interface.php:2086
+msgid "Hard Crop"
+msgstr "Cultivo duro"
+
+#: admin/admin-interface.php:2179
+msgid "-- Default Fonts --"
+msgstr "-- Default Fonts --"
+
+#: admin/admin-interface.php:2190
+msgid "-- Google Fonts --"
+msgstr "-- Google Fonts --"
+
+#: admin/admin-interface.php:2231
+msgid "Preview your customized typography settings"
+msgstr ""
+"Obtenga una vista previa de su configuración de tipografía personalizada"
+
+#: admin/admin-interface.php:2340 admin/admin-interface.php:2574
+msgid "Preview your customized border settings"
+msgstr "Obtenga una vista previa de su configuración de borde personalizada"
+
+#: admin/admin-interface.php:2341 admin/admin-interface.php:2508
+msgid "0px = No Border"
+msgstr ""
+
+#: admin/admin-interface.php:2349 admin/admin-interface.php:2565
+msgid "Rounded"
+msgstr "Redondeada"
+
+#: admin/admin-interface.php:2350 admin/admin-interface.php:2566
+msgid "Square"
+msgstr "Cuadrada"
+
+#: admin/admin-interface.php:2360 admin/admin-interface.php:2579
+msgid "Top Left Corner"
+msgstr "Esquina superior izquierda"
+
+#: admin/admin-interface.php:2380 admin/admin-interface.php:2599
+msgid "Top Right Corner"
+msgstr "Esquina superior derecha"
+
+#: admin/admin-interface.php:2400 admin/admin-interface.php:2619
+msgid "Bottom Right Corner"
+msgstr "Esquina inferior derecha"
+
+#: admin/admin-interface.php:2420 admin/admin-interface.php:2639
+msgid "Bottom Left Corner"
+msgstr "Esquina izquierda inferior"
+
+#: admin/admin-interface.php:2507
+msgid "Preview your customized border styles settings"
+msgstr ""
+"Obtenga una vista previa de la configuración de estilos de borde "
+"personalizados"
+
+#: admin/admin-interface.php:2689
+msgid "YES"
+msgstr "SI"
+
+#: admin/admin-interface.php:2690
+msgid "NO"
+msgstr "NO"
+
+#: admin/admin-interface.php:2705
+msgid "Horizontal Shadow"
+msgstr "Sombra horizontal"
+
+#: admin/admin-interface.php:2723
+msgid "Vertical Shadow"
+msgstr "Sombra vertical"
+
+#: admin/admin-interface.php:2741
+msgid "Blur Distance"
+msgstr "Distancia de desenfoque"
+
+#: admin/admin-interface.php:2759
+msgid "Spread Size"
+msgstr "Tamaño de extensión"
+
+#: admin/admin-interface.php:2777
+msgid "INNER"
+msgstr "INTERIOR"
+
+#: admin/admin-interface.php:2778
+msgid "OUTER"
+msgstr "EXTERIOR"
+
+#: admin/admin-interface.php:2796
+msgid "Preview your customized box shadow settings"
+msgstr "Vista previa de la configuración de sombra de cuadro personalizada"
+
+#: admin/admin-interface.php:3064
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: admin/admin-interface.php:3065
+msgid "Reset Settings"
+msgstr "Reiniciar ajustes"
+
+#: admin/admin-pages/admin-settings-page.php:63
+#: admin/admin-pages/admin-settings-page.php:64
+msgid "Email & Cart"
+msgstr "Correo electrónico y carrito"
+
+#: admin/admin-ui.php:113 admin/admin-ui.php:116
+msgid "Premium Version Enhanced Features"
+msgstr "Funciones mejoradas de la versión premium"
+
+#: admin/admin-ui.php:117
+msgid "WooCommerce Dynamic Gallery Premium"
+msgstr "Galería dinámica de WooCommerce Premium"
+
+#: admin/admin-ui.php:118
+msgid ""
+"Quick Video showing the main (not all) enhanced features that are built into "
+"the WooCommerce Dynamic Gallery Premium version"
+msgstr ""
+"Video rápido que muestra las características mejoradas principales (no todas)"
+" que están integradas en la versión Premium de WooCommerce Dynamic Gallery"
+
+#: admin/admin-ui.php:119
+msgid "Developer Support and Premium Features"
+msgstr "Soporte para desarrolladores y funciones premium"
+
+#: admin/admin-ui.php:120
+msgid ""
+"Limited Time Offer. Purchase the Premium Version Lifetime License. That is a "
+"Lifetime of maintenance updates, feature upgrades and developer support for "
+"a once only fee. Offer ending soon."
+msgstr ""
+"Oferta por tiempo limitado. Adquiera la licencia de por vida de la versión "
+"premium. Esa es una vida útil de actualizaciones de mantenimiento, "
+"actualizaciones de funciones y soporte para desarrolladores por una tarifa "
+"única. Oferta que termina pronto."
+
+#: admin/admin-ui.php:121
+msgid "Get Premium Features and Support"
+msgstr "Obtenga soporte y funciones premium"
+
+#: admin/admin-ui.php:269
+#, php-format
+msgid ""
+"Advanced Settings - Upgrade to the <a href=\"%s\" target=\"_blank\">%s "
+"License</a> to activate these settings."
+msgstr ""
+"Configuración avanzada: actualice a la <a href=\"%s\" target=\"_blank\">%s "
+"License</a> para activar esta configuración."
+
+#: admin/admin-ui.php:272
+msgid "Quotes & Orders Version"
+msgstr "Versión de cotizaciones y pedidos"
+
+#: admin/admin-ui.php:322 admin/admin-ui.php:341
+msgid "You should check now to see if have any new version is available"
+msgstr "Debe verificar ahora para ver si hay alguna versión nueva disponible"
+
+#: admin/admin-ui.php:324
+#, php-format
+msgid ""
+"Connection Failure! Please try again. If this issue persists please create a "
+"support request on the plugin <a href=\"%s\" target=\"_blank\">a3rev support "
+"forum</a>."
+msgstr ""
+"¡Fallo de conexión! Inténtalo de nuevo. Si el problema persiste, cree una "
+"solicitud de asistencia en el  <a href=\"%s\" target=\"_blank\">a3rev "
+"support forum</a>."
+
+#: admin/admin-ui.php:332
+#, php-format
+msgid ""
+"There is a new version <span class=\"a3rev-ui-new-plugin-version\">%s</span> "
+"available, <a href=\"%s\" target=\"_blank\">update now</a> or download "
+"direct from <a href=\"%s\" target=\"_blank\">My Account</a> on a3rev.com"
+msgstr ""
+"Hay una nueva versión <span class=\"a3rev-ui-new-plugin-version\">%s</span> "
+"available, <a href=\"%s\" target=\"_blank\">update now</a> or download "
+"direct from <a href=\"%s\" target=\"_blank\">My Account</a> on a3rev.com"
+
+#: admin/includes/uploader/class-uploader.php:101
+msgid "Upload"
+msgstr "Subir"
+
+#: admin/includes/uploader/class-uploader.php:121
+msgid "View File"
+msgstr "Ver archivo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:92
+msgid "Button Style Settings successfully saved."
+msgstr "Configuración de estilo de botón guardada correctamente."
+
+#: admin/settings/email-inquiry-button-style-settings.php:93
+msgid "Error: Button Style Settings can not save."
+msgstr "Error: la configuración de estilo de botón no se puede guardar."
+
+#: admin/settings/email-inquiry-button-style-settings.php:94
+msgid "Button Style Settings successfully reseted."
+msgstr "Configuración de estilo de botón restablecida correctamente."
+
+#: admin/settings/email-inquiry-button-style-settings.php:171
+msgid "Inquiry Button Style"
+msgstr "Estilo del botón de consulta"
+
+#: admin/settings/email-inquiry-button-style-settings.php:215
+msgid "Email Inquiry Button / Hyperlink"
+msgstr "Botón de consulta por correo electrónico / hipervínculo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:221
+msgid "Button or Hyperlink Text"
+msgstr "Botón o texto de hipervínculo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:228
+msgid "Button"
+msgstr "Botón"
+
+#: admin/settings/email-inquiry-button-style-settings.php:229
+msgid "Hyperlink"
+msgstr "Hipervínculo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:233
+msgid "Relative Position"
+msgstr "Posición relativa"
+
+#: admin/settings/email-inquiry-button-style-settings.php:234
+msgid "Position relative to add to cart button location"
+msgstr "Posición relativa a la ubicación del botón Agregar al carrito"
+
+#: admin/settings/email-inquiry-button-style-settings.php:240
+msgid "Below"
+msgstr "Abajo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:241
+msgid "Above"
+msgstr "Encima"
+
+#: admin/settings/email-inquiry-button-style-settings.php:245
+msgid "Button or Hyperlink Margin"
+msgstr "Botón o margen de hipervínculo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:252
+msgid "Top"
+msgstr "Parte superior"
+
+#: admin/settings/email-inquiry-button-style-settings.php:258
+msgid "Bottom"
+msgstr "Fondo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:265
+msgid "Left"
+msgstr "Izquierda"
+
+#: admin/settings/email-inquiry-button-style-settings.php:272
+msgid "Right"
+msgstr "Derecha"
+
+#: admin/settings/email-inquiry-button-style-settings.php:287
+msgid "Email Inquiry Button Style"
+msgstr "Estilo del botón de consulta por correo electrónico"
+
+#: admin/settings/email-inquiry-button-style-settings.php:294
+msgid "Button Text"
+msgstr "Botón de texto"
+
+#: admin/settings/email-inquiry-button-style-settings.php:295
+msgid "Leave Empty and button text will be 'Product Enquiry'"
+msgstr "Déjelo en blanco y el texto del botón será 'Consulta de producto'"
+
+#: admin/settings/email-inquiry-button-style-settings.php:298
+#: classes/class-wc-email-inquiry-hook.php:141
+#: classes/class-wc-email-inquiry-hook.php:244
+msgid "Product Enquiry"
+msgstr "Consulta de producto"
+
+#: admin/settings/email-inquiry-button-style-settings.php:301
+#: admin/settings/email-inquiry/popup-form-style-settings.php:174
+msgid "Button Font"
+msgstr "Fuente del botón"
+
+#: admin/settings/email-inquiry-button-style-settings.php:307
+msgid "Button Padding"
+msgstr "Acolchado de botones"
+
+#: admin/settings/email-inquiry-button-style-settings.php:308
+msgid "Padding from Button text to Button border"
+msgstr "Relleno desde el texto del botón hasta el borde del botón"
+
+#: admin/settings/email-inquiry-button-style-settings.php:313
+msgid "Top/Bottom"
+msgstr "Arriba / Abajo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:318
+msgid "Left/Right"
+msgstr "Izquierda / derecha"
+
+#: admin/settings/email-inquiry-button-style-settings.php:324
+#: admin/settings/email-inquiry/popup-form-style-settings.php:40
+#: admin/settings/email-inquiry/popup-form-style-settings.php:133
+#: admin/settings/email-inquiry/popup-form-style-settings.php:180
+msgid "Background Colour"
+msgstr "Color de fondo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:325
+#: admin/settings/email-inquiry-button-style-settings.php:332
+#: admin/settings/email-inquiry-button-style-settings.php:339
+#: admin/settings/email-inquiry/popup-form-style-settings.php:41
+#: admin/settings/email-inquiry/popup-form-style-settings.php:134
+#: admin/settings/email-inquiry/popup-form-style-settings.php:141
+#: admin/settings/email-inquiry/popup-form-style-settings.php:181
+#: admin/settings/email-inquiry/popup-form-style-settings.php:188
+#: admin/settings/email-inquiry/popup-form-style-settings.php:195
+msgid "Default"
+msgstr "Predefinido"
+
+#: admin/settings/email-inquiry-button-style-settings.php:331
+#: admin/settings/email-inquiry/popup-form-style-settings.php:187
+msgid "Background Colour Gradient From"
+msgstr "Gradiente de color de fondo desde"
+
+#: admin/settings/email-inquiry-button-style-settings.php:338
+#: admin/settings/email-inquiry/popup-form-style-settings.php:194
+msgid "Background Colour Gradient To"
+msgstr "Gradiente de color de fondo a"
+
+#: admin/settings/email-inquiry-button-style-settings.php:345
+#: admin/settings/email-inquiry/popup-form-style-settings.php:201
+msgid "Button Border"
+msgstr "Borde del botón"
+
+#: admin/settings/email-inquiry-button-style-settings.php:351
+#: admin/settings/email-inquiry/popup-form-style-settings.php:207
+msgid "Button Shadow"
+msgstr "Sombra de botón"
+
+#: admin/settings/email-inquiry-button-style-settings.php:358
+msgid "Hyperlink Styling"
+msgstr "Estilo de hipervínculo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:365
+msgid "Text Before"
+msgstr "Texto antes"
+
+#: admin/settings/email-inquiry-button-style-settings.php:366
+msgid "&lt;empty&gt; for default 'no text' or add text to prepent link text"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:372
+msgid "Hyperlink Text"
+msgstr "Texto de hipervínculo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:373
+msgid "&lt;empty&gt; for default 'Click Here' or your own text"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:376
+#: classes/class-wc-email-inquiry-hook.php:135
+#: classes/class-wc-email-inquiry-hook.php:249
+msgid "Click Here"
+msgstr "Haga clic aquí"
+
+#: admin/settings/email-inquiry-button-style-settings.php:379
+msgid "Trailing Text"
+msgstr "Texto final"
+
+#: admin/settings/email-inquiry-button-style-settings.php:380
+msgid "&lt;empty&gt; for default 'no text' or add text to trail linked text"
+msgstr ""
+
+#: admin/settings/email-inquiry-button-style-settings.php:386
+msgid "Hyperlink Font"
+msgstr "Fuente de hipervínculo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:393
+msgid "Hyperlink hover Colour"
+msgstr "Color de desplazamiento de hipervínculo"
+
+#: admin/settings/email-inquiry-button-style-settings.php:408
+#: admin/settings/email-inquiry-global-settings.php:342
+#: admin/settings/rules-roles-settings.php:559
+#: admin/settings/rules-roles-settings.php:612
+msgid "Tip"
+msgstr "Propina"
+
+#: admin/settings/email-inquiry-button-style-settings.php:408
+msgid ""
+"If you see margin between the add to cart button and the email button before "
+"adding a value here that margin is added by your theme. Increasing the "
+"margin here will add to the themes default button margin."
+msgstr ""
+"Si ve un margen entre el botón Agregar al carrito y el botón de correo "
+"electrónico antes de agregar un valor aquí, ese margen lo agrega su tema. El "
+"aumento del margen aquí se sumará al margen del botón predeterminado del "
+"tema."
+
+#: admin/settings/email-inquiry-button-style-settings.php:410
+#: admin/settings/email-inquiry-global-settings.php:344
+#: admin/settings/rules-roles-settings.php:424
+#: admin/settings/rules-roles-settings.php:493
+#: admin/settings/rules-roles-settings.php:561
+#: admin/settings/rules-roles-settings.php:614
+msgid "Don't show again"
+msgstr "No volver a mostrar"
+
+#: admin/settings/email-inquiry-button-style-settings.php:411
+#: admin/settings/email-inquiry-global-settings.php:345
+#: admin/settings/rules-roles-settings.php:425
+#: admin/settings/rules-roles-settings.php:494
+#: admin/settings/rules-roles-settings.php:562
+#: admin/settings/rules-roles-settings.php:615
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: admin/settings/email-inquiry-global-settings.php:92
+msgid "Email Inquiry Settings successfully saved."
+msgstr ""
+"Configuración de consulta de correo electrónico guardada correctamente."
+
+#: admin/settings/email-inquiry-global-settings.php:93
+msgid "Error: Email Inquiry Settings can not save."
+msgstr ""
+"Error: la configuración de consulta de correo electrónico no se puede "
+"guardar."
+
+#: admin/settings/email-inquiry-global-settings.php:94
+msgid "Email Inquiry Settings successfully reseted."
+msgstr ""
+"La configuración de consulta de correo electrónico se restableció "
+"correctamente."
+
+#: admin/settings/email-inquiry-global-settings.php:172
+#: admin/settings/rules-roles-settings.php:162
+#: classes/class-wc-email-inquiry-hook.php:588
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: admin/settings/email-inquiry-global-settings.php:221
+msgid "Email Inquiry Rules and Roles"
+msgstr "Reglas y roles de consulta por correo electrónico"
+
+#: admin/settings/email-inquiry-global-settings.php:222
+msgid ""
+"Globally set Email Inquiry feature for all Products for not logged in users "
+"and users when they log in. Option to independently set these options for "
+"each products edit page."
+msgstr ""
+"Establezca globalmente la función de consulta por correo electrónico para "
+"todos los productos para los usuarios que no han iniciado sesión y los "
+"usuarios cuando inician sesión. Opción para configurar de forma "
+"independiente estas opciones para cada página de edición de productos."
+
+#: admin/settings/email-inquiry-global-settings.php:228
+#: admin/settings/rules-roles-settings.php:369
+msgid "View before log in"
+msgstr "Ver antes de iniciar sesión"
+
+#: admin/settings/email-inquiry-global-settings.php:230
+msgid ""
+"ON and users will see Email Inquiry on Products Pages before they login."
+msgstr ""
+"ON y los usuarios verán Consulta por correo electrónico en las páginas de "
+"productos antes de iniciar sesión."
+
+#: admin/settings/email-inquiry-global-settings.php:241
+#: admin/settings/rules-roles-settings.php:381
+msgid "View after login"
+msgstr "Ver después de iniciar sesión"
+
+#: admin/settings/email-inquiry-global-settings.php:243
+msgid "Select user roles that will see Email Inquiry when they log in."
+msgstr ""
+"Seleccione los roles de usuario que verán Consulta por correo electrónico "
+"cuando inicien sesión."
+
+#: admin/settings/email-inquiry-global-settings.php:261
+#: admin/settings/rules-roles-settings.php:400
+msgid "Choose Roles"
+msgstr "Elige roles"
+
+#: admin/settings/email-inquiry-global-settings.php:275
+msgid "Product Cards"
+msgstr "Tarjetas de productos"
+
+#: admin/settings/email-inquiry-global-settings.php:281
+msgid "Email Inquiry Feature"
+msgstr "Función de consulta por correo electrónico"
+
+#: admin/settings/email-inquiry-global-settings.php:282
+msgid ""
+"ON to show Email Inquiry feature on your Product Cards on Shop, category and "
+"tags pages."
+msgstr ""
+"ACTIVADO para mostrar la función Consulta por correo electrónico en sus "
+"Tarjetas de productos en las páginas de Tienda, categoría y etiquetas."
+
+#: admin/settings/email-inquiry-global-settings.php:307
+msgid "Select a Pop-Up Tool"
+msgstr "Seleccione una herramienta  Pop-Up"
+
+#: admin/settings/email-inquiry-global-settings.php:314
+msgid "Pop-Up Tool"
+msgstr "Herramienta Pop-Up"
+
+#: admin/settings/email-inquiry-global-settings.php:321
+msgid "FANCYBOX"
+msgstr "CAJA LUJOSA"
+
+#: admin/settings/email-inquiry-global-settings.php:322
+msgid "COLORBOX"
+msgstr "CAJA DE COLOR"
+
+#: admin/settings/email-inquiry-global-settings.php:342
+msgid ""
+"If a product does not have a price set (even 0) it is a function of "
+"WooCommmerce that the add to cart function is removed from the product. The "
+"Email Inquiry button hooks to that function and if it is not present the "
+"button cannot show. Also if a bespoke theme has removed the WooCommerce add "
+"to cart template and replaced it with a custom template the button cannot "
+"show on any products."
+msgstr ""
+"Si un producto no tiene un precio establecido (incluso 0), es una función de "
+"WooCommmerce que la función de agregar al carrito se elimine del producto. "
+"El botón Consulta por correo electrónico enlaza con esa función y, si no "
+"está presente, el botón no se puede mostrar. Además, si un tema a medida ha "
+"eliminado la plantilla de añadir al carrito de WooCommerce y la ha "
+"reemplazado por una plantilla personalizada, el botón no se puede mostrar en "
+"ningún producto."
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:38
+msgid "Default Form Settings"
+msgstr "Configuración de formulario predeterminada"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:45
+msgid "Email 'From' Settings"
+msgstr "Configuración de correo electrónico"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:50
+msgid "\"From\" Name"
+msgstr "\"From\" Name"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:51
+msgid "Leave empty and your site title will be use"
+msgstr "Déjelo en blanco y se utilizará el título de su sitio"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:58
+msgid "\"From\" Email Address"
+msgstr "\"From\" Email Address"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:59
+#: admin/settings/email-inquiry/contact-form-global-settings.php:89
+msgid "Leave empty and your WordPress admin email address will be used"
+msgstr ""
+"Déjelo en blanco y se utilizará su dirección de correo electrónico de "
+"administrador de WordPress"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:66
+msgid "Sender 'Request A Copy'"
+msgstr "Remitente 'Solicitar una copia'"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:71
+msgid "Send Copy to Sender"
+msgstr "Enviar copia al remitente"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:72
+msgid ""
+"Gives users a checkbox option to send a copy of the Inquiry email to "
+"themselves"
+msgstr ""
+"Ofrece a los usuarios una opción de casilla de verificación para enviarse "
+"una copia del correo electrónico de consulta a sí mismos"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:84
+msgid "Email Delivery"
+msgstr "Entrega de correo electrónico"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:88
+msgid "Inquiry Email goes to"
+msgstr "El correo electrónico de consulta"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:97
+msgid "CC"
+msgstr "CC"
+
+#: admin/settings/email-inquiry/contact-form-global-settings.php:98
+msgid "Leave empty and 'no copy sent'"
+msgstr "Dejar vacía y 'sin copia enviada'"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:33
+msgid "Default Form Background Colour"
+msgstr "Color de fondo del formulario predeterminado"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:48
+msgid "Default Form Fonts and Text"
+msgstr "Fuentes y texto de formulario predeterminados"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:55
+msgid "Form Heading Text"
+msgstr "Texto de encabezado de formulario"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:59
+msgid "Heading Text"
+msgstr "Texto de encabezado"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:60
+msgid "Leave Empty and the form title will default to Product Inquiry"
+msgstr ""
+"Déjelo en blanco y el título del formulario será el valor predeterminado de "
+"Consulta de producto"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:71
+msgid "Text Font"
+msgstr "Tipografía del texto"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:78
+#: classes/class-wc-email-inquiry-functions.php:173
+msgid "Product Name"
+msgstr "Nombre del producto"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:83
+msgid "Product Name Font"
+msgstr "Nombre del producto Fuente"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:90
+msgid "Product URL"
+msgstr "URL del producto"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:95
+msgid "Product URL Font"
+msgstr "Fuente de URL del producto"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:102
+msgid "Form Content Font"
+msgstr "Fuente de contenido de formulario"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:106
+msgid "Content Font"
+msgstr "Fuente de contenido"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:114
+msgid "Email Subject Name"
+msgstr "Nombre del asunto del correo electrónico"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:119
+msgid "Subject Name Font"
+msgstr "Fuente del nombre del sujeto"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:126
+msgid "Default Form Text Input Fileds"
+msgstr "Archivos de entrada de texto de formulario predeterminados"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:140
+msgid "Font Colour"
+msgstr "Color de fuente"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:147
+msgid "Input Field Borders"
+msgstr "Bordes de campo de entrada"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:154
+msgid "Default Form SEND Button"
+msgstr "Botón ENVIAR formulario predeterminado"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:161
+msgid "Send Button Text"
+msgstr "Enviar texto del botón"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:162
+msgid "Leave empty and button will show SEND"
+msgstr "Deje vacía y el botón mostrará ENVIAR"
+
+#: admin/settings/email-inquiry/popup-form-style-settings.php:165
+#: classes/class-wc-email-inquiry-hook.php:260
+msgid "SEND"
+msgstr "ENVIAR"
+
+#: admin/settings/email-inquiry/success-message-settings.php:32
+msgid "Default Form Success Message"
+msgstr "Mensaje de éxito del formulario predeterminado"
+
+#: admin/settings/email-inquiry/success-message-settings.php:39
+msgid "Success Message"
+msgstr "Mensaje de éxito"
+
+#: admin/settings/email-inquiry/success-message-settings.php:40
+msgid "Message that user will see after their Inquiry is sent."
+msgstr "Mensaje que el usuario verá después de que se envíe su consulta."
+
+#: admin/settings/email-inquiry/success-message-settings.php:44
+#: classes/class-wc-email-inquiry-functions.php:108
+msgid ""
+"Thanks for your inquiry - we'll be in touch with you as soon as possible!"
+msgstr ""
+"Gracias por su consulta, nos pondremos en contacto con usted lo antes "
+"posible."
+
+#: admin/settings/rules-roles-settings.php:92
+msgid "Rules & Roles Settings successfully saved."
+msgstr "La configuración de reglas y roles se guardó correctamente."
+
+#: admin/settings/rules-roles-settings.php:93
+msgid "Error: Rules & Roles Settings can not save."
+msgstr "Error: la configuración de reglas y roles no se puede guardar."
+
+#: admin/settings/rules-roles-settings.php:94
+msgid "Rules & Roles Settings successfully reseted."
+msgstr "La configuración de reglas y roles se restableció correctamente."
+
+#: admin/settings/rules-roles-settings.php:210
+msgid "Manual Quote"
+msgstr "Cotización manual"
+
+#: admin/settings/rules-roles-settings.php:211
+msgid "Auto Quote"
+msgstr "Cotización automática"
+
+#: admin/settings/rules-roles-settings.php:217
+msgid "Plugin Framework Global Settings"
+msgstr "Configuración global del marco de complementos"
+
+#: admin/settings/rules-roles-settings.php:224
+msgid "Customize Admin Setting Box Display"
+msgstr ""
+"Personalizar la visualización del cuadro de configuración del administrador"
+
+#: admin/settings/rules-roles-settings.php:225
+msgid ""
+"By default each admin panel will open with all Setting Boxes in the CLOSED "
+"position."
+msgstr ""
+"De forma predeterminada, cada panel de administración se abrirá con todos "
+"los cuadros de configuración en la posición CERRADO."
+
+#: admin/settings/rules-roles-settings.php:232
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: admin/settings/rules-roles-settings.php:233
+msgid ""
+"By Default Google Fonts are pulled from a static JSON file in this plugin. "
+"This file is updated but does not have the latest font releases from Google."
+msgstr ""
+"Por defecto, las fuentes de Google se extraen de un archivo JSON estático en "
+"este complemento. Este archivo está actualizado pero no tiene las últimas "
+"versiones de fuentes de Google."
+
+#: admin/settings/rules-roles-settings.php:240
+msgid "House Keeping"
+msgstr "Limpieza interna"
+
+#: admin/settings/rules-roles-settings.php:244
+msgid "Clean up on Deletion"
+msgstr "Limpiar al eliminar"
+
+#: admin/settings/rules-roles-settings.php:245
+msgid ""
+"On deletion (not deactivate) the plugin will completely remove all tables "
+"and data it created, leaving no trace it was ever here."
+msgstr ""
+"Al eliminarlo (no desactivarlo), el complemento eliminará por completo todas "
+"las tablas y datos que creó, sin dejar rastro de que alguna vez estuvo aquí."
+
+#: admin/settings/rules-roles-settings.php:258
+msgid "Help Notes"
+msgstr "Notas de ayuda"
+
+#: admin/settings/rules-roles-settings.php:263
+msgid "Rules & Roles Help Notes"
+msgstr "Notas de ayuda de reglas y roles"
+
+#: admin/settings/rules-roles-settings.php:270
+#: admin/settings/rules-roles-settings.php:290
+#: admin/settings/rules-roles-settings.php:326
+msgid "SHOW"
+msgstr "MOSTRAR"
+
+#: admin/settings/rules-roles-settings.php:271
+#: admin/settings/rules-roles-settings.php:291
+#: admin/settings/rules-roles-settings.php:327
+msgid "HIDE"
+msgstr "ESCONDER"
+
+#: admin/settings/rules-roles-settings.php:273
+msgid ""
+"Product Page Rules apply a single action Rule to all product pages which can "
+"be filtered on a per User Role basis. These Rules can also be varied on a "
+"product by product basis from each product edit page"
+msgstr ""
+"Las reglas de la página del producto aplican una regla de acción única a "
+"todas las páginas del producto que se pueden filtrar por función de usuario. "
+"Estas reglas también se pueden modificar producto por producto desde la "
+"página de edición de cada producto."
+
+#: admin/settings/rules-roles-settings.php:275
+msgid "Set Rules that apply to Product Pages or your entire store."
+msgstr ""
+"Establezca reglas que se apliquen a las páginas de productos o a toda su "
+"tienda."
+
+#: admin/settings/rules-roles-settings.php:276
+msgid ""
+"The Rules are applied to users who are NOT Logged in and Rules for when they "
+"login in."
+msgstr ""
+"Las Reglas se aplican a los usuarios que NO han iniciado sesión y las Reglas "
+"para cuando inician sesión."
+
+#: admin/settings/rules-roles-settings.php:277
+msgid ""
+"Different Rules can be applied to logged in users based upon their user Role "
+"e.g. what users with the Customer Role see verses what users with the "
+"Subscriber role see."
+msgstr ""
+"Se pueden aplicar diferentes reglas a los usuarios registrados en función de "
+"su rol de usuario, p. lo que ven los usuarios con el rol de cliente frente a "
+"lo que ven los usuarios con el rol de suscriptor."
+
+#: admin/settings/rules-roles-settings.php:279
+msgid ""
+"<strong>Important!</strong> When an admin sets a Rule for NOT logged in "
+"users if they then check the front end to see the new Rule they will not see "
+"it, because they are logged in as administrator and have not applied that "
+"Rule to their role (this catches a lot of first time users who think the "
+"plugin is not working because they can't see the rule applied while they are "
+"logged in but can when they log out)."
+msgstr ""
+
+#: admin/settings/rules-roles-settings.php:283
+msgid "Troubleshooting"
+msgstr "Solución de problemas"
+
+#: admin/settings/rules-roles-settings.php:293
+msgid "Below is a list of common issues we see"
+msgstr "A continuación se muestra una lista de problemas comunes que vemos"
+
+#: admin/settings/rules-roles-settings.php:294
+msgid "<strong>Don't See Rules Applied on front end.</strong>"
+msgstr "<strong>No vea las reglas aplicadas en la parte delantera.</strong>"
+
+#: admin/settings/rules-roles-settings.php:296
+msgid ""
+"This is because you have not applied the Rule to your logged in user role "
+"(administrator). Either apply your role to the rule or check it in another "
+"browser where you are not logged in."
+msgstr ""
+"Esto se debe a que no ha aplicado la regla a su rol de usuario conectado "
+"(administrador). Aplique su rol a la regla o verifíquelo en otro navegador "
+"donde no haya iniciado sesión."
+
+#: admin/settings/rules-roles-settings.php:299
+msgid ""
+"<Strong>'Add to' Button and or Email Inquiry, Read More button does not show "
+"on some products.</strong>"
+msgstr ""
+"<Strong>Botón 'Agregar a' o Consulta por correo electrónico, el botón Leer "
+"más no se muestra en algunos productos.</strong>"
+
+#: admin/settings/rules-roles-settings.php:301
+msgid ""
+"The 'Add to' Button e.g. Add to Quote button is the WooCommerce Add to Cart "
+"Button."
+msgstr ""
+"El botón \"Agregar a\", p. Ej. El botón Agregar a cotización es el botón "
+"Agregar al carrito de WooCommerce."
+
+#: admin/settings/rules-roles-settings.php:302
+msgid ""
+"The Email Inquiry and Read More Buttons are hooked to the add to cart button."
+msgstr ""
+"Los botones Consulta por correo electrónico y Leer más están conectados al "
+"botón Agregar al carrito."
+
+#: admin/settings/rules-roles-settings.php:304
+msgid ""
+"There are 2 circumstances that WooCommerce removes the 'Add to Cart' "
+"function from the Product card and Product page. If either of these apply to "
+"a product then Quotes and Orders has nothing to hook to and cannot work. "
+"Those 2 are:"
+msgstr ""
+"Hay 2 circunstancias en las que WooCommerce elimina la función 'Agregar al "
+"carrito' de la tarjeta del producto y la página del producto. Si alguno de "
+"estos se aplica a un producto, Cotizaciones y pedidos no tiene nada a lo que "
+"enganchar y no puede funcionar. Esos 2 son:"
+
+#: admin/settings/rules-roles-settings.php:306
+msgid "IF a product has no price entered."
+msgstr "SI un producto no tiene precio ingresado."
+
+#: admin/settings/rules-roles-settings.php:307
+msgid "If 'Inventory Management' is ON and the product is 'out of Stock'."
+msgstr ""
+"Si la 'Gestión de inventario' está activada y el producto está 'agotado'."
+
+#: admin/settings/rules-roles-settings.php:314
+msgid "WooCommerce Quotes and Orders Upgrade"
+msgstr "Actualización de cotizaciones y pedidos de WooCommerce"
+
+#: admin/settings/rules-roles-settings.php:319
+msgid "Advanced Features"
+msgstr "Características avanzadas"
+
+#: admin/settings/rules-roles-settings.php:329
+msgid ""
+"The WooCommerce Quotes and Orders plugin is an upgrade version for store "
+"owners who want all the feature of WooCommerce Email Inquiry plus advanced "
+"cart rules, Manual Quotes. Auto Quotes and Add to Order"
+msgstr ""
+"El complemento WooCommerce Quotes and Orders es una versión de actualización "
+"para los propietarios de tiendas que desean todas las funciones de "
+"WooCommerce Email Inquiry más reglas avanzadas de carrito, cotizaciones "
+"manuales. Cotizaciones automáticas y agregar al pedido"
+
+#: admin/settings/rules-roles-settings.php:330
+msgid "Manual Quotes Rule"
+msgstr "Regla de cotizaciones manuales"
+
+#: admin/settings/rules-roles-settings.php:332
+msgid "Customers to create a basket of items and submit them for a quote."
+msgstr ""
+"Los clientes deben crear una canasta de artículos y enviarlos para una "
+"cotización."
+
+#: admin/settings/rules-roles-settings.php:333
+msgid "Quote Request is created as a WooCommerce Order."
+msgstr "La solicitud de cotización se crea como una orden de WooCommerce."
+
+#: admin/settings/rules-roles-settings.php:334
+msgid "Admin edits Order and submits it by email from the order edit page."
+msgstr ""
+"El administrador edita el pedido y lo envía por correo electrónico desde la "
+"página de edición del pedido."
+
+#: admin/settings/rules-roles-settings.php:335
+msgid "Only Prices customers sees are those in the submitted quote."
+msgstr ""
+"Solo los precios que ven los clientes son los que figuran en la cotización "
+"enviada."
+
+#: admin/settings/rules-roles-settings.php:336
+msgid ""
+"Quote is converted into a Payable Order by changing order status to Payment "
+"Pending."
+msgstr ""
+"La cotización se convierte en una orden pagadera cambiando el estado de la "
+"orden a Pago pendiente."
+
+#: admin/settings/rules-roles-settings.php:339
+msgid "Auto Quotes Rule"
+msgstr "Regla de cotizaciones automáticas"
+
+#: admin/settings/rules-roles-settings.php:341
+msgid "All the same features as manual quotes except Quote is Auto."
+msgstr ""
+"Todas las mismas funciones que las cotizaciones manuales excepto Quote is "
+"Auto."
+
+#: admin/settings/rules-roles-settings.php:342
+msgid ""
+"Customer submits quote request, the email has all product prices, shipping "
+"and taxes."
+msgstr ""
+"El cliente envía la solicitud de cotización, el correo electrónico contiene "
+"todos los precios, envío e impuestos de los productos."
+
+#: admin/settings/rules-roles-settings.php:343
+msgid "Auto Quotes order status is Payment Pending and can be paid for online."
+msgstr ""
+"El estado del pedido de Cotizaciones automáticas es Pago pendiente y se "
+"puede pagar en línea."
+
+#: admin/settings/rules-roles-settings.php:346
+msgid "Orders Rule"
+msgstr "Regla de pedidos"
+
+#: admin/settings/rules-roles-settings.php:348
+msgid "Genuine Business to Business (B2B) orders functionality."
+msgstr "Funcionalidad genuina de pedidos Business to Business (B2B)."
+
+#: admin/settings/rules-roles-settings.php:349
+msgid "Customers use WooCommerce as a virtual order pad."
+msgstr "Las clientes usan WooCommerce como un bloc de pedidos virtual."
+
+#: admin/settings/rules-roles-settings.php:350
+msgid "Never see payment gateways or payment requests unless admin wants that."
+msgstr ""
+"Nunca vea pasarelas de pago o solicitudes de pago a menos que el "
+"administrador lo desee."
+
+#: admin/settings/rules-roles-settings.php:351
+msgid "Use for Add to Quote if you want Prices visible."
+msgstr "Use para Agregar a cotización si desea que los precios estén visibles."
+
+#: admin/settings/rules-roles-settings.php:354
+msgid ""
+"Just like the Product Page Rules the Manual Quotes, Auto Quotes and Add to "
+"Order Rules can be applied to not logged in users and by user role after "
+"login."
+msgstr ""
+"Al igual que las reglas de la página del producto, las cotizaciones manuales,"
+" las cotizaciones automáticas y las reglas para agregar al pedido se pueden "
+"aplicar a los usuarios que no han iniciado sesión y por rol de usuario "
+"después de iniciar sesión."
+
+#: admin/settings/rules-roles-settings.php:355
+msgid ""
+"WooCommerce Quotes and Orders is a once only payment Lifetime License plugin "
+"(not annual subscription). View details here on the a3rev.com site."
+msgstr ""
+"WooCommerce Quotes and Orders es un complemento de licencia de por vida de "
+"pago único (no suscripción anual). Vea los detalles aquí en el sitio a3rev."
+"com."
+
+#: admin/settings/rules-roles-settings.php:356
+msgid "Special Offer!"
+msgstr "¡Oferta especial!"
+
+#: admin/settings/rules-roles-settings.php:357
+msgid ""
+"Upgrade to WooCommerce Quotes and Orders within 60 days of purchasing your "
+"WooCommerce Email Inquiry Cart & Options License and we will refund for the "
+"full price paid for your Email Inquiry Cart & Options License."
+msgstr ""
+"Actualice a cotizaciones y pedidos de WooCommerce dentro de los 60 días "
+"posteriores a la compra de su carrito de consulta por correo electrónico y "
+"licencia de opciones y le reembolsaremos el precio total pagado por su "
+"carrito de consulta por correo electrónico y licencia de opciones."
+
+#: admin/settings/rules-roles-settings.php:362
+msgid "Product Page Rule: Hide 'Add to Cart'"
+msgstr "Regla de la página del producto: Ocultar 'Agregar al carrito'"
+
+#: admin/settings/rules-roles-settings.php:363
+msgid ""
+"This Rule hides the add to cart button on all products. Hide or show add to "
+"cart can be set independently of these global settings from each product "
+"edit page."
+msgstr ""
+"Esta regla oculta el botón Agregar al carrito en todos los productos. "
+"Ocultar o mostrar agregar al carrito se puede configurar independientemente "
+"de esta configuración global desde la página de edición de cada producto."
+
+#: admin/settings/rules-roles-settings.php:370
+msgid ""
+"ON and your stores add to cart button will be hidden from all users before "
+"they log in."
+msgstr ""
+"ON y el botón Agregar al carrito de la tienda se ocultará a todos los "
+"usuarios antes de que inicien sesión."
+
+#: admin/settings/rules-roles-settings.php:382
+msgid ""
+"Select user roles that you do not want to see add to cart when they log in."
+msgstr ""
+"Seleccione los roles de usuario que no desea que se agreguen al carrito "
+"cuando inician sesión."
+
+#: admin/settings/rules-roles-settings.php:422
+#: admin/settings/rules-roles-settings.php:491
+#: admin/settings/rules-roles-settings.php:559
+msgid "Note"
+msgstr "Nota"
+
+#: admin/settings/rules-roles-settings.php:422
+#: admin/settings/rules-roles-settings.php:491
+msgid ""
+"If you do not apply Rules to your role i.e. 'administrator' you will need to "
+"either log out or open the site in another browser where you are not logged "
+"in to see the Rule feature is activated."
+msgstr ""
+"Si no aplica Reglas a su función, es decir, 'administrador', deberá cerrar "
+"la sesión o abrir el sitio en otro navegador en el que no haya iniciado "
+"sesión para ver que la función Regla está activada."
+
+#: admin/settings/rules-roles-settings.php:559
+msgid ""
+"When you assign the Administrator Role to Manual Quotes and create a test "
+"Manual Quote Request you will get 2 Quote Request Received emails - the site "
+"admins copy and the customers copy"
+msgstr ""
+"Cuando asigne el rol de administrador a las cotizaciones manuales y cree una "
+"solicitud de cotización manual de prueba, recibirá 2 correos electrónicos de "
+"solicitud de cotización recibidos: los administradores del sitio copian y "
+"los clientes copian"
+
+#: admin/settings/rules-roles-settings.php:559
+msgid ""
+"The admin email shows the order sub total amount. This is not a bug. Check "
+"the customers copy and you will see it shows no prices for each product and "
+"no sub total amount."
+msgstr ""
+"El correo electrónico del administrador muestra el subtotal del pedido. Esto "
+"no es un error. Verifique la copia de los clientes y verá que no muestra "
+"precios para cada producto ni un monto subtotal."
+
+#: admin/settings/rules-roles-settings.php:612
+msgid ""
+"This only applies if you are using a Bespoke theme and the Theme developer "
+"has removed the woocommerce.css and replaced it with a custom template that "
+"uses a different HTML structure. This is very bad practise but there are "
+"plenty of Bespoke Theme developers who do it. You will know if you have such "
+"a theme because in Quotes or Orders mode on the Cart page, Checkout page and "
+"Order received pages layout and style will be broken."
+msgstr ""
+"Esto solo se aplica si está utilizando un tema a medida y el desarrollador "
+"del tema ha eliminado el woocommerce.css y lo ha reemplazado con una "
+"plantilla personalizada que utiliza una estructura HTML diferente. Esta es "
+"una práctica muy mala, pero hay muchos desarrolladores de temas a medida que "
+"lo hacen. Sabrá si tiene un tema de este tipo porque en el modo Cotizaciones "
+"o Pedidos en la página del carrito, la página de pago y el diseño y el "
+"estilo de las páginas del pedido recibido se romperán."
+
+#: admin/settings/rules-roles-settings.php:612
+msgid ""
+"If you have this issue and after activating this feature you still have "
+"issues with the WooCommerce page layouts and style it will be because the "
+"custom HTML structure of the theme is over riding the woocommerce.css. If "
+"using WooCommerce Quotes and Orders is important to your stores "
+"functionality you should do one of 2 things."
+msgstr ""
+"Si tiene este problema y después de activar esta función, todavía tiene "
+"problemas con los diseños de página y el estilo de WooCommerce, será porque "
+"la estructura HTML personalizada del tema está por encima de woocommerce.css."
+" Si el uso de presupuestos y pedidos de WooCommerce es importante para la "
+"funcionalidad de su tienda, debe hacer una de dos cosas."
+
+#: admin/settings/rules-roles-settings.php:612
+msgid "1. Contact the theme developer and ask them to fix their code."
+msgstr ""
+"1. Póngase en contacto con el desarrollador del tema y pídale que corrija su "
+"código."
+
+#: admin/settings/rules-roles-settings.php:612
+msgid ""
+"2. Ask for a refund and choose a theme that is 100% WooCommerce Compatible "
+"(It is not hard the Default WordPress themes are all 100% compatible)."
+msgstr ""
+"2. Solicite un reembolso y elija un tema que sea 100% compatible con "
+"WooCommerce (no es difícil que los temas predeterminados de WordPress sean "
+"100% compatibles)."
+
+#: admin/tabs/email-inquiry-tab.php:78
+msgid "Email Inquiry"
+msgstr "Consulta por correo electrónico"
+
+#: admin/tabs/rules-roles-tab.php:78
+msgid "Rules & Roles"
+msgstr "Reglas y roles"
+
+#: classes/class-wc-email-inquiry-functions.php:147
+msgid "Email inquiry for"
+msgstr "Consulta por correo electrónico para"
+
+#: classes/class-wc-email-inquiry-functions.php:148
+msgid "[Copy]: Email inquiry for"
+msgstr "[Copy]: Consulta por correo electrónico"
+
+#: classes/class-wc-email-inquiry-functions.php:156
+#: classes/class-wc-email-inquiry-hook.php:274
+msgid "Name"
+msgstr "Nombre"
+
+#: classes/class-wc-email-inquiry-functions.php:162
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: classes/class-wc-email-inquiry-functions.php:168
+#: classes/class-wc-email-inquiry-hook.php:280
+msgid "Phone"
+msgstr "Teléfono"
+
+#: classes/class-wc-email-inquiry-functions.php:178
+#: classes/class-wc-email-inquiry-hook.php:286
+msgid "Message"
+msgstr "Mensaje"
+
+#: classes/class-wc-email-inquiry-functions.php:217
+msgid "Sorry, this product don't enable email inquiry."
+msgstr ""
+"Lo sentimos, este producto no permite la consulta por correo electrónico."
+
+#: classes/class-wc-email-inquiry-hook.php:256
+msgid "Product Inquiry"
+msgstr "Peticiones sobre producto"
+
+#: classes/class-wc-email-inquiry-hook.php:277
+msgid "Email"
+msgstr "Correo electronico"
+
+#: classes/class-wc-email-inquiry-hook.php:283
+msgid "Subject"
+msgstr "Sujeto"
+
+#: classes/class-wc-email-inquiry-hook.php:425
+msgid "Please enter your Name"
+msgstr "Por favor, escriba su nombre"
+
+#: classes/class-wc-email-inquiry-hook.php:429
+msgid "Please enter valid Email address"
+msgstr "Por favor ingrese una dirección de correo electrónico válida"
+
+#: classes/class-wc-email-inquiry-hook.php:433
+msgid "Please enter your Phone"
+msgstr "Por favor ingrese su teléfono"
+
+#: classes/class-wc-email-inquiry-hook.php:525
+#: classes/class-wc-email-inquiry-hook.php:538
+#: classes/class-wc-email-inquiry-hook.php:544
+#: classes/class-wc-email-inquiry-hook.php:550
+msgid "Go to Support Forum"
+msgstr "Ir al foro de soporte"
+
+#: classes/class-wc-email-inquiry-hook.php:556
+msgid "Connect with us via"
+msgstr "Conéctate con nosotros a través de"
+
+#: classes/class-wc-email-inquiry-hook.php:557
+msgid "a3rev Facebook"
+msgstr "a3rev Facebook"
+
+#: classes/class-wc-email-inquiry-hook.php:558
+msgid "a3rev Twitter"
+msgstr "a3rev Twitter"
+
+#: classes/class-wc-email-inquiry-hook.php:565
+msgid "WooCommerce Plugins"
+msgstr "WooCommerce Plugins"
+
+#: classes/class-wc-email-inquiry-hook.php:582
+msgid "Documentation"
+msgstr "Documentación"
+
+#: classes/class-wc-email-inquiry-hook.php:583
+msgid "Support"
+msgstr "Soporte"
+
+#: templates/emails/order-new-account.php:12
+#: templates/emails/plain/order-new-account.php:10
+#: templates/emails/plain/quote-new-account.php:10
+#: templates/emails/plain/send-quote.php:11
+#: templates/emails/quote-new-account.php:12 templates/emails/send-quote.php:12
+msgid "Please Upgrade to WooCommerce Quotes and Orders plugin"
+msgstr "Actualice al complemento WooCommerce Quotes and Orders"
